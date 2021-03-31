@@ -4,7 +4,7 @@
 
 ## Education
 
-- PhD Computer Science (2020-)
+- Ph.D. Computer Science (2020-)
     - At DES Lab and Graz University of Technology
     - Focus: Formal Methods and AI
     
@@ -18,14 +18,14 @@
     
 ## Work Experience
 
-- Project Employee @ Institute For Software Technology/TU Graz (2019-2020)
+- Project Employee @ Institute For Software Technology (2019-2020)
     - CD-Laboratory for Quality Assurance Methodologies for Autonomous Cyber-Physical Systems (QAMCAS) 
     - Development of the Model-Based Diagnosis Framework
 
 - Android Developer @ Corvus Info (2018)
     - Development of Surveillance Mobile App for National Park
     - Development of Food Deliver Application
-
+    
 ## Teaching Experience
 
 - Student Assistant for Courses
