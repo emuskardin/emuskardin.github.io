@@ -4,3 +4,6 @@ title: Edi Muškardin
 description: PhD Student @ DES Lab/TU Graz
 
 logo: my_picture.jpg
+
+github:
+  is_project_page: false
