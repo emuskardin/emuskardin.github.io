@@ -22,13 +22,13 @@
     - CD-Laboratory for Quality Assurance Methodologies for Autonomous Cyber-Physical Systems (QAMCAS) 
     - Development of the Model-Based Diagnosis Framework
 
-- Android Developer @ Corvus Info (2018)
-    - Development of Surveillance Mobile App for National Park
-    - Development of Food Deliver Application
+- Android Developer @ CorvusInfo (2018)
+    - Development of Collaborative Perception Mobile App
+    - Development of Food Delivery Application
     
 ## Teaching Experience
 
 - Student Assistant for Courses
-    - IT Security
-    - Quality Assurance
-    - Algorithms and Data Structures
+    - IT Security @ [IAIK](https://www.iaik.tugraz.at/)
+    - Quality Assurance @ [IST](https://www.tugraz.at/institutes/ist/home/)
+    - Algorithms and Data Structures @ [Inf.UniRI](https://www.inf.uniri.hr/)
