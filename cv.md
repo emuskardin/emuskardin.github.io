@@ -18,6 +18,9 @@
     
 ## Work Experience
 
+- Junior Scientist @ Silicon Austria Labs (SAL)
+    - Ph.D. @ SAL Doctoral College
+
 - Project Employee @ Institute For Software Technology (2019-2020)
     - CD-Laboratory for Quality Assurance Methodologies for Autonomous Cyber-Physical Systems (QAMCAS) 
     - Development of the Model-Based Diagnosis Framework
