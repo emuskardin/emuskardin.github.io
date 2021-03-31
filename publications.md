@@ -1,14 +1,21 @@
 ##### [Back To Homepage](./README.md)
 ## Publications
 
+#### 
+``
+Aichernig B., Muskardin E. and Pferscher, A. Learning-Based Fuzzing of IoT Message Brokers. In IEEE International Conference on Software Testing, Verification and Validation (ICST) 2021
+``
+
+
 #### Diagnosing Cyber-Physical Systems with CatIO
 ``
-Muškardin Edi & Pill Ingo & Wotawa Franz. (2020). (2020). Diagnosing Cyber-Physical Systems with CatIO.
+Muškardin Edi & Pill Ingo & Wotawa Franz. Diagnosing Cyber-Physical Systems with CatIO. (2020).
 ``
 
 #### CatIO - A Framework for Model-Based Diagnosis of Cyber-Physical Systems
 ``
-Muškardin Edi & Pill Ingo & Wotawa Franz. (2020). CatIO - A Framework for Model-Based Diagnosis of Cyber-Physical Systems. 10.1007/978-3-030-59491-6_25. ``
+Muškardin Edi & Pill Ingo & Wotawa Franz. CatIO - A Framework for Model-Based Diagnosis of Cyber-Physical Systems. 10.1007/978-3-030-59491-6_25. (2020).
+``
 
 #### Implementation of Hashing Algorithms in Stream Mining
 ``
