@@ -19,7 +19,7 @@
 ## Work Experience
 
 - Project Employee @ Institute For Software Technology/TU Graz (2019-2020)
-    - 
+    - CD-Laboratory for Quality Assurance Methodologies for Autonomous Cyber-Physical Systems (QAMCAS) 
     - Development of the Model-Based Diagnosis Framework
 
 - Android Developer @ Corvus Info (2018)
