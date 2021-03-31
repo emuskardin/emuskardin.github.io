@@ -1,7 +1,7 @@
 ##### [Back To Homepage](./README.md)
 ## Publications
 
-#### 
+#### Learning-Based Fuzzing of IoT Message Brokers
 ``
 Aichernig B., Muskardin E. and Pferscher, A. Learning-Based Fuzzing of IoT Message Brokers. In IEEE International Conference on Software Testing, Verification and Validation (ICST) 2021
 ``
