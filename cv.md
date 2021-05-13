@@ -1,8 +1,8 @@
 ##### [Back To Homepage](./index.md)
 
-# Curriculum Vitae
+## Curriculum Vitae
 
-## Education
+### Education
 
 - Ph.D. Computer Science (2020-)
     - At DES Lab and Graz University of Technology
@@ -16,7 +16,7 @@
 - Bachelor Studies Informatics (2015-2017)  
     - Department of Informatics, University of Rijeka
     
-## Work Experience
+### Work Experience
 
 - Junior Scientist @ Silicon Austria Labs (SAL)
     - Ph.D. @ SAL Doctoral College
@@ -29,7 +29,7 @@
     - Development of Collaborative Perception Mobile App
     - Development of Food Delivery Application
     
-## Teaching Experience
+### Teaching Experience
 
 - Student Assistant for Courses
     - IT Security @ [IAIK](https://www.iaik.tugraz.at/)
