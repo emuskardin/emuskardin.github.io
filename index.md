@@ -1,4 +1,4 @@
-## About Me
+### About Me
 I am a computer science Ph.D. student at the DES Lab. DES Lab is a collaboration between Silicon Austria Labs and Graz University of Technology.
 
 My research focus can be summarized as **FM meets AI**.  In short, we are using formal methods to verify the correctness of software systems, more concretely, AI-based software components.
