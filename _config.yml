@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 
-title: Edi Muškardin
+name: Edi Muškardin
+title : null
 description: Ph.D. Student @ DES Lab/TU Graz
 
 logo: my_picture.jpg
