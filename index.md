@@ -6,7 +6,7 @@ I am a computer science Ph.D. student at the DES Lab. DES Lab is a collaboration
 My research focus can be summarized as **FM meets AI**.  In short, we are using formal methods to verify the correctness of software systems, more concretely, AI-based software components.
 Our "formal method of choice" is active automata learning. We focus on its applications, and tackling its inherent challenges.
 
-Check out my [***CV***](./cv.md) and [***publications***](./publications.md).
+Check out my <ins>[**CV**](./cv.md)</ins> and <ins>[**publications**](./publications.md)</ins>.
 
 ### Contact
 
