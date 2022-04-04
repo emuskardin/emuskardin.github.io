@@ -1,10 +1,21 @@
 ##### [Back To Homepage](./index.md)
 ## Publications
 
+#### Black-Box Extraction of RNN's Input-Output Behaviour via Automata Learning
+
+> Edi Muskardin, Bernhard K. Aichernig, Ingo Pill, Martin Tappler. Accepted at iFM2022.
+
+
+#### AALpy: Active Automata Learning Library (extended version)
+
+> Muskardin E., Aichernig B., Pill I. Pferscher, A. and Tappler M., AALpy: Active Automata Learning Library. 
+Innovations in Systems and Software Engineering, A NASA Journal
+
 #### Active Learning of Stochastic Reactive Systems 
 ###### Won best paper award :)
 
-> Martin Tappler., Edi Muškardin. Bernhard K Aichernig, Ingo Pill. Active Learning of Stochastic Reactive Systems (accepted)
+> Martin Tappler, Edi Muskardin, Bernhard K. Aichernig, Ingo Pill:
+Active Model Learning of Stochastic Reactive Systems. SEFM 2021: 481-500
 
 #### Automata Learning Enabling Model-Based Diagnosis
 
