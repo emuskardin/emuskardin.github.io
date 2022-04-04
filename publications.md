@@ -1,7 +1,8 @@
 ##### [Back To Homepage](./index.md)
 ## Publications
 
-#### Active Learning of Stochastic Reactive Systems
+#### Active Learning of Stochastic Reactive Systems 
+###### Won best paper award :)
 
 > Martin Tappler., Edi Muškardin. Bernhard K Aichernig, Ingo Pill. Active Learning of Stochastic Reactive Systems (accepted)
 
