@@ -1,9 +1,9 @@
 ##### [Back To Homepage](./index.md)
 ## Publications
 
-#### Black-Box Extraction of RNN's Input-Output Behaviour via Automata Learning
+#### Learning Finite State Models fromRecurrent Neural Networks
 
-> Edi Muskardin, Bernhard K. Aichernig, Ingo Pill, Martin Tappler. Accepted at iFM2022.
+> Edi Muskardin, Bernhard K. Aichernig, Ingo Pill, Martin Tappler., Learning Finite State Models fromRecurrent Neural Networks, [In book: Integrated Formal Methods (pp.229-248)](DOI:10.1007/978-3-031-07727-2_13)
 
 
 #### AALpy: Active Automata Learning Library (extended version)
