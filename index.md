@@ -6,7 +6,7 @@ DES Lab is a collaboration between Silicon Austria Labs and Graz University of T
 
 Following are my main research interest topics:
 - Design and development of automata learning algorithms
-- Development of [**AALpy**](https://github.com/DES-Lab/AALpy/), an active automata learning library
+- Development of <ins>[**AALpy**](https://github.com/DES-Lab/AALpy/)</ins>, an active automata learning library
 - Analysis of RNNs with automata learning
 - Combining automata learning and reinforcement learning
 
@@ -22,7 +22,6 @@ Easiest way to contact me is via email:
 - [GitHub](https://github.com/emuskardin)
 - [LinkedIn](https://www.linkedin.com/in/edi-mu%C5%A1kardin/)
 - [Google Scholar](https://scholar.google.at/citations?hl=de&user=m6e8gb8AAAAJ)
-- [DPLB](https://dblp.org/pid/274/2463.html)
 
 
 
