@@ -10,7 +10,7 @@ Following are my main research interest topics:
 - Analysis of RNNs with automata learning
 - Combining automata learning and reinforcement learning
 
-Check out my <ins>[**CV**](./cv.md)</ins> and <ins>[**publications**](https://scholar.google.at/citations?hl=de&user=m6e8gb8AAAAJ) </ins>.
+Check out my <ins>[**CV**](./cv.md)</ins> and <ins>[**publications**](./publications.md) </ins>.
 
 ### Contact
 
