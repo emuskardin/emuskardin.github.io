@@ -14,7 +14,7 @@ Learning Environment Models with Continuous Stochastic Dynamics. ICST 2024
 
 ####Active Model Learning of Git Version Control System
 
-> Edi Muskardin and Tamim Burgstallerand Martin Tappler and Bernhard K. Aichernig: Active Model Learning of Git Version Control System, A-MOST 2024
+> Edi Muskardin and Tamim Burgstaller and Martin Tappler and Bernhard K. Aichernig: Active Model Learning of Git Version Control System, A-MOST 2024
 
 [[Link to Paper]](https://conf.researchr.org/home/icst-2024/a-most-2024), [[Link to Code]](https://github.com/taburg/git-learning)
 
