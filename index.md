@@ -7,6 +7,7 @@ DES Lab is a collaboration between Silicon Austria Labs and Graz University of T
 Following are my main research interest topics:
 - Design and development of automata learning algorithms
 - Development of <ins>[**AALpy**](https://github.com/DES-Lab/AALpy/)</ins>, an automata learning library
+- Practical applications of automata learning
 - Analysis of RNNs with automata learning
 - Combining automata learning and reinforcement learning
 
