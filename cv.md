@@ -4,9 +4,10 @@
 
 ### Education
 
-- Ph.D. Computer Science (2020-)
+- Ph.D. Computer Science (2020-2024)
     - At DES Lab and Graz University of Technology
-    - Focus: Formal Methods and AI
+    - Focus: Machine Learning and Automata Learning
+    - Thesis: Modelling and Analysis of Machine Learning Systems with Automata Learning
     
 - Master Studies Software Engineering and Management (2018-2020)
     - Graduated with Distinction

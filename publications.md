@@ -7,7 +7,7 @@ I attempt to keep track of the publications here, but [Google Scholar](https://s
 <hr>
 
 - Modelling and Analysis of Machine Learning Systems with Automata Learning 
-- External examiner: prof. Falk Howar
+- External examiner: Prof. Falk Howar
 - Defended on 17.09.2024
 - [Link to Thesis](https://online.tugraz.at/tug_online/wbAbs.showThesis?pThesisNr=89363&pOrgNr=13586)
 
