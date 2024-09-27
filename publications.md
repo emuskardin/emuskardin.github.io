@@ -3,6 +3,14 @@
 
 I attempt to keep track of the publications here, but [Google Scholar](https://scholar.google.at/citations?hl=de&user=m6e8gb8AAAAJ) might be more up to date :) 
 
+### PhD thesis
+<hr>
+
+- Modelling and Analysis of Machine Learning Systems with Automata Learning 
+- External examiner: prof. Falk Howar
+- Defended on 17.09.2024
+- [Link to Thesis](https://online.tugraz.at/tug_online/wbAbs.showThesis?pThesisNr=89363&pOrgNr=13586)
+
 ### 2024
 <hr>
 

@@ -1,15 +1,15 @@
 <p></p>
 
 ## About Me
-I am a computer science Ph.D. student at the DES Lab. 
-DES Lab is a collaboration between Silicon Austria Labs and Graz University of Technology.
+I am a scientist at Silicon Austria Labs focusing on machine learning and formal methods.
 
 Following are my main research interest topics:
 - Design and development of automata learning algorithms
 - Development of <ins>[**AALpy**](https://github.com/DES-Lab/AALpy/)</ins>, an automata learning library
 - Practical applications of automata learning
+- Practical applications of machine learning
 - Analysis of RNNs with automata learning
-- Combining automata learning and reinforcement learning
+- Modeling of continuous stochastic environments (reinforcement learning)
 
 Check out my <ins>[**CV**](./cv.md)</ins> and <ins>[**publications**](./publications.md) </ins>.
 
