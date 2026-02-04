@@ -1,7 +1,7 @@
 <p></p>
 
 ## About Me
-I work as a machine learning research engineer at (Enlite.ai)[https://enlite.ai/]. I work on the application of reinforcement learning in the power grid domain, as well as in the development of RL algorithms and frameworks.
+I work as a machine learning research engineer at (enliteAI)[https://enlite.ai/]. I work on the application of reinforcement learning in the power grid domain, as well as in the development of RL algorithms and frameworks.
 
 Following are some of my current and past interests:
 - Design and development of automata learning algorithms
