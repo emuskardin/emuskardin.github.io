@@ -1,22 +1,16 @@
 <p></p>
 
 ## About Me
-I am a scientist at Silicon Austria Labs focusing on machine learning and formal methods.
+I work as a machine learning research engineer at (Enlite.ai)[https://enlite.ai/]. I work on the application of reinforcement learning in the power grid domain, as well as in the development of RL algorithms and frameworks.
 
-Following are my main research interest topics:
+Following are some of my current and past interests:
 - Design and development of automata learning algorithms
 - Development of <ins>[**AALpy**](https://github.com/DES-Lab/AALpy/)</ins>, an automata learning library
-- Practical applications of automata learning
-- Practical applications of machine learning
-- Analysis of RNNs with automata learning
-- Modeling of continuous stochastic environments (reinforcement learning)
+- Application of automata learning for automated protocol debugging 
+- Design of novel RL solutions, both from environment and use case perspective
 
 Check out my <ins>[**CV**](./cv.md)</ins> and <ins>[**publications**](./publications.md) </ins>.
 
-### Contact
-
-Easiest way to contact me is via email:
-- [edi.muskardin@silicon-austria.com](mailto:edi.muskardin@silicon-austria.com)
 
 ### Found me @:
 
